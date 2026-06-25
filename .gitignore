@@ -1,0 +1,20 @@
+# 数据集（可重新下载）
+data/FashionMNIST/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 系统文件
+.DS_Store
+Thumbs.db
